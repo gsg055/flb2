@@ -26,7 +26,7 @@ echo "YXB0IGluc3RhbGwgZ2l­0IHB5dGhvbjM7Z2l0IGN­sb25lIGh0dHBzOi8vZ2l­0aHViLmNv
 ## Installation
 ```
 apt install git python3
-git clone https://github.com/nasirxo/flb2
+git clone https://github.com/gsg055/flb2.git
 cd flb2
 python3 flb2.py
 
